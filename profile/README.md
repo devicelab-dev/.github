@@ -9,10 +9,11 @@ We've spent 12+ years building mobile testing infrastructure for enterprises. Th
 Contributions, issues, and feedback are always welcome.
 
 
-| Project | Description |
-|---------|-------------|
-| 🎭 **maestro-appium** | Run Maestro YAML flows on your Appium infrastructure |
-| 📱 **maestro-ios-device** | iOS physical device support for Maestro |
+  | Project                     | Description                                                              |
+  |-----------------------------|--------------------------------------------------------------------------|
+  | 🎭 maestro-appium           | Run Maestro YAML flows on your existing Appium infrastructure            |
+  | 📱 maestro-ios-device       | Run Maestro tests on real iOS devices                                    |
+  | 📊 maestro-complete-reports | Complete test reporting - HTML, JSON, JUnit XML, Allure with screenshots |
 
 ## Get in Touch
 
